@@ -26,3 +26,9 @@ if __name__=="__main__":
 # pip freeze to list the libraries install in python virtual env.
 #pip freeze > requirement.txt -- for putting libraries in a text file
 #gunicorb is library that heroku needs to run the program on HTTP server.
+#git init to initialize the git in your folder
+#git add . to add file in git repositry
+#git commit -m "first commit" to make the changes
+#set git remote heroku to https://git.heroku.com/adiece.git
+#heroku git:remote --app adiece to point the to my app adiece
+#
